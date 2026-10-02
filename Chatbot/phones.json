@@ -1,0 +1,262 @@
+[
+  {
+    "name": "iPhone 15",
+    "brand": "Apple",
+    "price": 79999,
+    "category": "flagship",
+    "specs": {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "camera": "48 MP",
+      "battery": "3279 mAh",
+      "display": "6.1\" OLED"
+    }
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "brand": "Apple",
+    "price": 134999,
+    "category": "ultra",
+    "specs": {
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "camera": "48 MP Triple",
+      "battery": "3274 mAh",
+      "display": "6.1\" ProMotion OLED"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S24",
+    "brand": "Samsung",
+    "price": 74999,
+    "category": "flagship",
+    "specs": {
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "camera": "50 MP Triple",
+      "battery": "4000 mAh",
+      "display": "6.2\" Dynamic AMOLED"
+    }
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra",
+    "brand": "Samsung",
+    "price": 134999,
+    "category": "ultra",
+    "specs": {
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "camera": "200 MP Quad",
+      "battery": "5000 mAh",
+      "display": "6.8\" Dynamic AMOLED"
+    }
+  },
+  {
+    "name": "Samsung Galaxy A55",
+    "brand": "Samsung",
+    "price": 34999,
+    "category": "mid-range",
+    "specs": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "camera": "50 MP Triple",
+      "battery": "5000 mAh",
+      "display": "6.6\" Super AMOLED"
+    }
+  },
+  {
+    "name": "Samsung Galaxy A35",
+    "brand": "Samsung",
+    "price": 26999,
+    "category": "mid-range",
+    "specs": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "camera": "50 MP Triple",
+      "battery": "5000 mAh",
+      "display": "6.6\" Super AMOLED"
+    }
+  },
+  {
+    "name": "Samsung Galaxy M14",
+    "brand": "Samsung",
+    "price": 11999,
+    "category": "budget",
+    "specs": {
+      "ram": "4 GB",
+      "storage": "64 GB",
+      "camera": "50 MP Triple",
+      "battery": "6000 mAh",
+      "display": "6.7\" PLS LCD"
+    }
+  },
+  {
+    "name": "Google Pixel 8",
+    "brand": "Google",
+    "price": 75999,
+    "category": "flagship",
+    "specs": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "camera": "50 MP Dual",
+      "battery": "4575 mAh",
+      "display": "6.2\" OLED"
+    }
+  },
+  {
+    "name": "Google Pixel 8a",
+    "brand": "Google",
+    "price": 52999,
+    "category": "mid-range",
+    "specs": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "camera": "64 MP Dual",
+      "battery": "4492 mAh",
+      "display": "6.1\" OLED"
+    }
+  },
+  {
+    "name": "OnePlus 12",
+    "brand": "OnePlus",
+    "price": 64999,
+    "category": "flagship",
+    "specs": {
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "camera": "50 MP Triple",
+      "battery": "5400 mAh",
+      "display": "6.82\" LTPO AMOLED"
+    }
+  },
+  {
+    "name": "OnePlus Nord CE 4",
+    "brand": "OnePlus",
+    "price": 24999,
+    "category": "mid-range",
+    "specs": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "camera": "50 MP Dual",
+      "battery": "5500 mAh",
+      "display": "6.7\" AMOLED"
+    }
+  },
+  {
+    "name": "Xiaomi 14",
+    "brand": "Xiaomi",
+    "price": 69999,
+    "category": "flagship",
+    "specs": {
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "camera": "50 MP Leica Triple",
+      "battery": "4610 mAh",
+      "display": "6.36\" LTPO AMOLED"
+    }
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "brand": "Xiaomi",
+    "price": 21999,
+    "category": "mid-range",
+    "specs": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "camera": "200 MP Triple",
+      "battery": "5100 mAh",
+      "display": "6.67\" AMOLED"
+    }
+  },
+  {
+    "name": "Xiaomi Redmi 13C",
+    "brand": "Xiaomi",
+    "price": 8999,
+    "category": "budget",
+    "specs": {
+      "ram": "4 GB",
+      "storage": "128 GB",
+      "camera": "50 MP Triple",
+      "battery": "5000 mAh",
+      "display": "6.74\" IPS LCD"
+    }
+  },
+  {
+    "name": "Realme 12 Pro+",
+    "brand": "Realme",
+    "price": 29999,
+    "category": "mid-range",
+    "specs": {
+      "ram": "8 GB",
+      "storage": "256 GB",
+      "camera": "50 MP Triple (Periscope)",
+      "battery": "5000 mAh",
+      "display": "6.7\" AMOLED"
+    }
+  },
+  {
+    "name": "Realme Narzo 70",
+    "brand": "Realme",
+    "price": 14999,
+    "category": "budget",
+    "specs": {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "camera": "50 MP Dual",
+      "battery": "5000 mAh",
+      "display": "6.67\" AMOLED"
+    }
+  },
+  {
+    "name": "Realme C67",
+    "brand": "Realme",
+    "price": 10999,
+    "category": "budget",
+    "specs": {
+      "ram": "6 GB",
+      "storage": "128 GB",
+      "camera": "108 MP Dual",
+      "battery": "5000 mAh",
+      "display": "6.72\" IPS LCD"
+    }
+  },
+  {
+    "name": "iQOO Neo 9 Pro",
+    "brand": "iQOO",
+    "price": 36999,
+    "category": "mid-range",
+    "specs": {
+      "ram": "8 GB",
+      "storage": "128 GB",
+      "camera": "50 MP Dual",
+      "battery": "4600 mAh",
+      "display": "6.78\" LTPO AMOLED"
+    }
+  },
+  {
+    "name": "Motorola Edge 50 Pro",
+    "brand": "Motorola",
+    "price": 31999,
+    "category": "mid-range",
+    "specs": {
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "camera": "50 MP Triple",
+      "battery": "4500 mAh",
+      "display": "6.7\" pOLED"
+    }
+  },
+  {
+    "name": "Motorola G84",
+    "brand": "Motorola",
+    "price": 16999,
+    "category": "budget",
+    "specs": {
+      "ram": "12 GB",
+      "storage": "256 GB",
+      "camera": "50 MP Dual",
+      "battery": "5000 mAh",
+      "display": "6.55\" pOLED"
+    }
+  }
+]
